@@ -1,0 +1,306 @@
+.nav-text{
+    font-size: 14px;
+    align-items: center;
+    display: flex;
+    align-items: center;
+}
+
+.BG{
+    height: 92vh;
+    width: auto;
+    background: #E5F0F2;
+}
+
+.nav-brand{
+    height: 24px;
+    width: 40px;
+}
+
+.intro{
+    height: 86vh;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tittle-f {
+    color: #2C4858;
+    font-size: 40px;
+    font-weight: 620;
+    line-height: 45px;
+    letter-spacing: 1px;
+}
+
+.tittle-s {
+    color: #2C4858;
+    font-size: 32px;
+    font-weight: 620;
+    line-height: 45px;
+    letter-spacing: 1px;
+}
+
+.tittle-t {
+    color: #7A7A7A;
+    font-size: 18px;
+    line-height: 50px;
+    letter-spacing: 1px;
+}
+
+.text-intro {
+    margin-top: 5px;
+}
+
+.img-intro{
+    background-size: contain;
+}
+
+.button-f{
+    background-color: #596D85 !important;
+    border: none !important;
+    height: 61px;
+    width: 165px;
+    border-radius: 1000px !important;
+}
+
+.button-s {
+    margin-left: 20px;
+    color: #596D85 !important;
+    border-color: #596D85 !important;
+    height: 61px;
+    width: 165px;
+    border-radius: 1000px !important;
+}
+
+.icon-sosmed{
+    margin-top: 60px;
+}
+
+.service-page {
+    height: 90vh;
+}
+
+.tittle-service {
+    font-size: 30px;
+    font-weight: 620;
+    letter-spacing: 0.5px;
+    color: #2C4858;
+}
+
+.text-service {
+    font-size: 14px;
+    color: #7A7A7A;
+}
+
+/* .card-service{
+    height: 327px;
+    width: 252px;
+    border-color: #F6F6F6;
+} */
+
+.col-service {
+    height: auto;
+}
+
+.content-card {
+    padding-top: 40px;
+}
+
+.card-text{
+    color: #7A7A7A;
+}
+
+.why {
+    height: 85vh;
+}
+
+.content-pertama {
+    font-size: 14px;
+    padding-top: 43px;
+    color: #7A7A7A;
+}
+
+.content-kedua{
+    font-size: 28px;
+    font-weight: 620;
+    color: #2C4858;
+    letter-spacing: 0.5px;
+}
+
+.content-ketiga {
+    margin-top: 20px;
+    font-size: 12px;
+    color: #3B3B3B;
+    line-height: 23px;
+    text-align: justify;
+}
+
+.pages-tim {
+    height: 90vh;
+}
+
+.img-tim {
+    border: 5px solid #E5F0F2 ;
+    border-radius: 100%;
+}
+
+.spasi-foto {
+    padding-right: 110px;
+    padding-left: 110px;
+}
+
+.spasi-konten {
+    margin-top: 83px;
+}
+
+.nama{
+    margin-top: 20px;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+    color: #2C4858;
+}
+
+.bidang {
+    margin-top: 4px;
+    font-size: 12px;
+    color: #7A7A7A;
+}
+
+.pages-tools {
+    height: 38vh;
+    background-color: #E7F7FA;
+}
+
+.tittle-tools {
+    font-size: 22px;
+    font-weight: 600;
+    color: #8A8A8A;
+    padding-top: 20px;
+}
+
+.pages-testi {
+    height: 100vh;
+    background-color: #F0F8FA;
+}
+
+.content-testi-all{
+    padding-top: 80px;
+}
+
+.content-testi {
+    font-size: 14px;
+    color: #7A7A7A;
+}
+
+.content-testies {
+    font-size: 24px;
+    color: #2C4858;
+    font-weight: 630;
+    letter-spacing: 0.2px;
+}
+.content-judul-testi {
+    font-size: 14px;
+    color: #7A7A7A;
+}
+.content-testi{
+    font-size: 12px;
+    font-weight: 450;
+    color: black;
+    text-align: justify;
+    padding: 12px 24px 5px 24px ;
+}
+
+.nama-testi{
+    margin-top: 10px;
+    font-size: 11px;
+    color: #2C4858;
+}
+
+.content-all-testi{
+    margin-top: 60px;
+    padding: 0 65px 0 65px;
+}
+
+.card-testi {
+    border : none !important;
+    box-shadow: 0 28px 26px 0 rgba(0, 0, 0, 0.18) !important;
+}
+
+.card-service {
+    border:  1px solid #F6F6F6 !important;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1) !important;
+    border-radius: 12px !important;
+}
+
+.card-services{
+    border: none !important;
+}
+
+.page-footer{
+    background-image: url(../assets/image/bg-footers.jpg);
+    height: 80vh;
+}
+
+.col-footer-satu{
+    padding: 25px 40px 20px 35px;
+    height: auto;
+    text-align: justify;
+}
+
+.text-footer-satu {
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+}
+
+.text-footer-dua{
+    font-size: 13px;
+    color: #B1B1B1;
+    letter-spacing: 1px;
+}
+
+.text-footer-tiga{
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+    margin-top: 48px;
+    letter-spacing: 1px;
+}
+
+.box-sosmed{
+    margin-top: 18px;
+    background-color: rgba(255, 255, 255, 0.2);
+    display: inline-block;
+    border-radius: 1000px;
+}
+
+.konten-footer{
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: 480;
+    color: #ffffff;
+}
+
+.konten-footers {
+    color: #757575;
+    font-size: 14px;
+    margin-top: 12px;
+}
+
+.judul-input {
+    font-size: 24px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+/* .form-control {
+    display: block !important;
+    width: 100% !important;
+    height: 36px !important;
+    border-width: 0 0 2px 0 !important;
+    border-color: #7E8995 !important;
+    font-size: 18px !important;
+    line-height: 26px !important;
+    font-weight: 400 !important;
+} */
